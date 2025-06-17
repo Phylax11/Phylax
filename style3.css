@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(190, 206, 219);
+}
+a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: rgb(253, 253, 253);
+}
+.topnav {
+  background-color: #557f99;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 19px;
+  text-decoration: none;
+  font-size: 17px;
+  justify-content: space-evenly;
+}
+.topnav a:hover {
+  background-color: #475c74;
+  color: black;
+}
+.exit{
+    float: right;
+}
+.box{
+    background: #b87c0f;
+    width: 250px;
+    margin: auto;
+    padding: 1rem 2rem;
+    text-align: center;
+    border-radius: 15px;
+}
+.yow{
+    width: 100%;
+    margin: auto;
+    padding: 0.6rem 0.5rem;
+    justify-content: center;
+    border-radius: 5px;
+}
+.cat{
+    background: #ffc37f;
+    width: 250px;
+    margin: auto;
+    padding: 1rem 2rem;
+    text-align: center; 
+    border-radius: 15px;
+}
+.box2{
+    width: 100%;
+    margin: auto;
+    padding: 0.6rem 0.5rem;
+    justify-content: center;
+    border-radius: 5px;
+}
+.cow{
+    background: #cf7d01;
+    width: 250px;
+    margin: auto;
+    padding: 1rem 2rem;
+    text-align: center; 
+    border-radius: 15px;
+}
+.box3{
+    width: 100%;
+    margin: auto;
+    padding: 1rem 0.5rem;
+    justify-content: center;
+    border-radius: 5px;
+}
+img{
+    width: 100%;
+    height: 150px;
+    margin: auto;
+}
